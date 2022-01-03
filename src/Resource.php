@@ -1,6 +1,6 @@
 <?php
 
-namespace DigitalCreative\ResourceNavigationTab;
+namespace Workup\ResourceNavigationTab;
 
 use JsonSerializable;
 
