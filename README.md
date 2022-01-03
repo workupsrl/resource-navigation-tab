@@ -1,19 +1,15 @@
 # Resource Navigation Tab
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/digital-creative/resource-navigation-tab)](https://packagist.org/packages/digital-creative/resource-navigation-tab)
-[![Total Downloads](https://img.shields.io/packagist/dt/digital-creative/resource-navigation-tab)](https://packagist.org/packages/digital-creative/resource-navigation-tab)
-[![License](https://img.shields.io/packagist/l/digital-creative/resource-navigation-tab)](https://github.com/dcasia/resource-navigation-tab/blob/master/LICENSE)
-
 Organize your long pile of tables and relationships into structured pages.
 
-![Resource Navigation Tab in Action](https://raw.githubusercontent.com/dcasia/resource-navigation-tab/master/screenshots/demo-1.png)
+![Resource Navigation Tab in Action](https://raw.githubusercontent.com/workupsrl/resource-navigation-tab/master/screenshots/demo-1.png)
 
 # Installation
 
 You can install the package via composer:
 
 ```
-composer require digital-creative/resource-navigation-tab
+composer require workup/resource-navigation-tab
 ```
 
 ## Basic Usage
