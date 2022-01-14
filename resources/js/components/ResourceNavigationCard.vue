@@ -66,6 +66,7 @@
              * Nova sort the cards per size, smaller comes first, so to keep this card above everything,
              * It starts with the smallest possible size, and then resize itself to the largest
              */
+            this.$parent.$el.classList.remove('w-1/2')
             this.$parent.$el.classList.add('w-full')
 
             const slug = this.card.resources[0].slug
